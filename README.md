@@ -1,17 +1,19 @@
 # Automatic-Rail-way-crossing
-A microbit controlled automatic rail way crossing.
+Αυτόματη λειτουργία ισόπεδης διάβασης τρένου με το micro:bit
 
 Αυτόματη λειτουργία μιας σιδηροδρομικής διασταύρωσης με τις μπάρες να κλείνουν αυτόματα μόλις περνά το τρένο.
 Θα χρησιμοποιηθεί ένας **hall sensor** στις γραμμές για την ανίχνευση του τρένου.
 Οι μπάρες μπροστά από τη διασταύρωση με το δρόμο ανεβοκατεβαίνουν με τη βοήθεια ενός micro servo.
 Όταν οι μπάρες κλείνουν θα υπάρχει ηχητική ειδοποίηση (beeper) και φανάρια.
 ## ΥΛΙΚΑ 
-1. microbit
-2. micro servo sg90
-3. hall sensor
-4. 2x LEDs 5mm
-5. beeper
-6. jumper cables
-7. crocodile clips
-8. battery case
+   1. microbit
+   2. SparkFun moto:bit
+   3. micro servo sg90
+   4. hall sensor
+   5. 2x LEDs 5mm
+   6. beeper
+   7. jumper cables
+   8. crocodile clips
+   9. μπαταριοθήκη 4xAA (για το servo)
+  10. μπαταριοθήκη 2xAA (για το micro:bit)
 
