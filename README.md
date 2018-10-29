@@ -19,17 +19,18 @@ micro:bit.
 ## ΥΛΙΚΑ 
    1. microbit
    2. microbit expansion board
-   3. step down DC 3.3V converter
-   4. 2x micro servo sg90
-   5. hall sensor (5V) με level shifter 5V-> 3.3V ή αντίστοιχος αισθητήρας στα 3.3V
-   6. 2x LEDs 5mm
-   7. 2x Αντιστάσεις 220Ω
-   8. passive buzzer
-   9. set jumper cables (m-m)
-  10. μαγνητάκι
-  11. μπαταριοθήκη 4xAA (για το servo)
-  12. μπαταριοθήκη 2xAA (για το micro:bit)
-  13. προαιρετικά 3D εκτυπωτής για την κατασκευή (μπάρας, θήκης servo, κολώνας φαναριών), διαφορετικά 
+   3. breadboard
+   4. step down DC 3.3V converter
+   5. 2x micro servo sg90
+   6. hall sensor (5V) με level shifter 5V-> 3.3V ή αντίστοιχος αισθητήρας στα 3.3V
+   7. 2x LEDs 5mm
+   8. 2x Αντιστάσεις 220Ω
+   9. passive buzzer
+  10. set jumper cables (m-m)
+  11. μαγνητάκι
+  12. μπαταριοθήκη 4xAA (για το servo)
+  13. μπαταριοθήκη 2xAA (για το micro:bit)
+  14. προαιρετικά 3D εκτυπωτής για την κατασκευή (μπάρας, θήκης servo, κολώνας φαναριών), διαφορετικά 
       χοντρό χαρτόνι ή ξύλο και κόλλα
 
 ### Αναλυτική περιγραφή
