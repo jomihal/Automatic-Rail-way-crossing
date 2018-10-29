@@ -13,6 +13,7 @@
 Στη μηχανή του τρένου θα τοποθετηθεί στο κάτω μέρος ένας μικρός μαγνήτης ώστε όταν η μηχανή περνά από τον 
 αισθητήρα ανίχνευσης μαγνητικού πεδίου (hall sensor), αυτός να ενεργοποιείται δίνοντας κατάλληλο σήμα στο 
 micro:bit.
+![Image of Railway Cross](https://github.com/jomihal/Automatic-Rail-way-crossing/blob/master/Microbit%20controlled%20railway%20crossing-1.png)
 
 ## ΥΛΙΚΑ 
    1. microbit
