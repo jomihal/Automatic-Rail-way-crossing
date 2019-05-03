@@ -12,7 +12,8 @@
 
 
 **TurnOnlyRightLightOn**:
-  Ανάβει μόνο το δεξιό φανάρι της διάβασης(ελέγχεται από τον ακροδέκτη P12)
+Ανάβει μόνο το δεξιό φανάρι της διάβασης(ελέγχεται από τον ακροδέκτη P12)
+
 ![TurnOnlyLeftLightOn](https://github.com/jomihal/Automatic-Rail-way-crossing/blob/master/Code/TurnOnlyRightLightOn.JPG)
 
 
