@@ -8,7 +8,7 @@
 
 **TurnOnlyLeftLightOn**:
 Ανάβει μόνο το αριστερό φανάρι της διάβασης (ελέγχεται από τον ακροδέκτη P8)
-![Image of Railway Cross](https://github.com/jomihal/Automatic-Rail-way-crossing/blob/master/Microbit%20controlled%20railway%20crossing-1.png)
+![TurnOnlyLeftLightOn](https://github.com/jomihal/Automatic-Rail-way-crossing/blob/master/Code/TurnOnlyLeftLightOn.JPG)
 
 **TurnOnlyRightLightOn**:
   Ανάβει μόνο το δεξιό φανάρι της διάβασης(ελέγχεται από τον ακροδέκτη P12)
