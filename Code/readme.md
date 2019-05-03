@@ -50,7 +50,8 @@
 ![trainPass](https://github.com/jomihal/Automatic-Rail-way-crossing/blob/master/Code/trainPass.JPG)
 
 Η βασική της λειτουργία είναι:
-    
+
+
     • Θα ανάβει και τα 2 φανάρια της διάβαση για 1 δευτερόλεπτο (ειδοποίηση οδηγών)
 
     •	Θα κατεβάζει τη μπάρα (κλήση συνάρτησης CloseBar)
