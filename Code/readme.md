@@ -8,11 +8,14 @@
 
 **Κατά την έναρξη**
 To μπλόκ αυτό εκτελείται μόνο μια φορά κατά την έναρξη του προγράμματος
+
 ![OnStart](https://github.com/jomihal/Automatic-Rail-way-crossing/blob/master/Code/OnStart.JPG)
 
 **Για Πάντα**
 To μπλόκ αυτό εκτελείται για πάντα
+
 ![ForEver](https://github.com/jomihal/Automatic-Rail-way-crossing/blob/master/Code/ForEver.JPG)
+
 
 **TurnOnlyLeftLightOn**:
 Ανάβει μόνο το αριστερό φανάρι της διάβασης (ελέγχεται από τον ακροδέκτη P8)
