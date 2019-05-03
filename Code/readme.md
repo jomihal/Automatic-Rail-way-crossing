@@ -25,6 +25,7 @@
 
 **TurnLightsOn**:
 Ανάβει και τα 2 φανάρια
+
 ![TurnLightsOn](https://github.com/jomihal/Automatic-Rail-way-crossing/blob/master/Code/TurnLightsOn.JPG)
 
 
@@ -40,6 +41,7 @@
 
 **BeepAndBlinkLights**:
 Παράγει ηχητικούς τόνους και θα αναβοσβήνει τα φανάρια της διάβασης ώστε να ειδοποιούνται οι οδηγοί που περιμένουν στη διάβαση
+
 ![BeepAndBlinkLights](https://github.com/jomihal/Automatic-Rail-way-crossing/blob/master/Code/BeepAndBlinkLights.JPG)
 
 
