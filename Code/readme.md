@@ -8,7 +8,7 @@
 
 **TurnOnlyLeftLightOn**:
 Ανάβει μόνο το αριστερό φανάρι της διάβασης (ελέγχεται από τον ακροδέκτη P8)
-
+![Image of Railway Cross](https://github.com/jomihal/Automatic-Rail-way-crossing/blob/master/Microbit%20controlled%20railway%20crossing-1.png)
 
 **TurnOnlyRightLightOn**:
   Ανάβει μόνο το δεξιό φανάρι της διάβασης(ελέγχεται από τον ακροδέκτη P12)
@@ -27,3 +27,6 @@
 
 **BeepAndBlinkLights**:
 Παράγει ηχητικούς τόνους και θα αναβοσβήνει τα φανάρια της διάβασης ώστε να ειδοποιούνται οι οδηγοί που περιμένουν στη διάβαση
+
+**trainPass**:
+Βασική συνάρτηση που καθορίζει όσα πρέπει να γίνονται όταν ο αισθητήρας στη γραμμή ανιχνεύσει τρένο
