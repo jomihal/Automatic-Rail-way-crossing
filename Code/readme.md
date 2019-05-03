@@ -22,12 +22,12 @@
 
 
 **TurnLightsOn**:
-  Ανάβει και τα 2 φανάρια
+Ανάβει και τα 2 φανάρια
 ![TurnLightsOn](https://github.com/jomihal/Automatic-Rail-way-crossing/blob/master/Code/TurnLightsOn.JPG)
 
 
 **OpenBar**:
-  Γυρίζει τον άξονα του servo σε 0 μοίρες, ώστε η μπάρα να ανέβει, ελευθερώνοντας τη διάβαση.
+Γυρίζει τον άξονα του servo σε 0 μοίρες, ώστε η μπάρα να ανέβει, ελευθερώνοντας τη διάβαση.
 ![OpenBar](https://github.com/jomihal/Automatic-Rail-way-crossing/blob/master/Code/OpenBar.JPG)
 
 
